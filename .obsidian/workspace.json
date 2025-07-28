@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ce187a2919a5ac52",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b3181ba43468f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295d75a1a319115b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28-07-2025-7 Cli Packages to try (Fzf).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28-07-2025-7 Cli Packages to try (Fzf)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb25929c323c7507",
+    "type": "split",
+    "children": [
+      {
+        "id": "4633d2a04697f28a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77015ba0e32bc5cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44e7bf69af2f4bc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "846458a921f39e85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6792ab25f766eeb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2cfcab7cb67be4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17646d1b95f01d82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a8636b689c8edd77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "260b648c0a8a493d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "678b8f57218cd6b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "295d75a1a319115b",
+  "lastOpenFiles": [
+    "Custom LInux setup/Apps/22-07-2025-Flake usage.md",
+    "Custom LInux setup/Apps/25-07-2025-Nixos Flake Explaination.md",
+    "Automation/22-07-2025-Using Nix by Dreams of Autonomy.md",
+    "Automation/17-07-2025-n8n locally by Network Chuck.md",
+    "Custom LInux setup/Apps/25-07-2025-NIxos Flakes.md",
+    "22-07-2025-Ditching Nix.md",
+    "Custom LInux setup/Apps",
+    "AI/Network Chuck/13-07-2025-OpenWebUI setup.md",
+    "AI/Bolt.new Setup/16-07-2025-Ollama + bolt.diy.md",
+    "Custom LInux setup/File managing/23-07-2025-Using Yazi.md",
+    "Custom LInux setup/File managing",
+    "Custom LInux setup/13-07-2025-Neovim Customization from scratch.md",
+    "Custom LInux setup/13-07-2025-Neovim config with lazyvim.md",
+    "Custom LInux setup/13-07-2025-customizing fastfetch.md",
+    "21-07-2025-Getting started with google cloud maybe.md",
+    "22-07-2025-Speed up rendering.md",
+    "Coding/Front End Coding/19-07-2025-Creating audio player desktop app with electron.md",
+    "Coding/Front End Coding/17-07-2025-Building Desktop apps with Electron.md",
+    "Coding/Front End Coding/18-07-2025-Learning React with a Single Project.md",
+    "Custom LInux setup/TYpecraft/13-07-2025-treesitter.md",
+    "Custom LInux setup/TYpecraft/13-07-2025-FuzzyFinding with Telescope.md",
+    "Custom LInux setup/TYpecraft/12-07-2025-TryingWaybar RIGHT NOW.md",
+    "Coding",
+    "Custom LInux setup/18-07-2025-Dual Booting Arch.md",
+    "AI/18-07-2025-Integrating AI with the terminal.md",
+    "Newspapers/18-07-2025-Desktop Applications with React.md",
+    "Newspapers/18-07-2025-Integrating AI with Terminal.md",
+    "Newspapers/18-07-2025-Minimax, the goated updates.md",
+    "Newspapers/18-07-2025-Switch to Arch by developedbyed.md",
+    "Coding/Front End Coding",
+    "Automation",
+    "Tmux Learning",
+    "AI/Bolt.new Setup",
+    "Custom LInux setup/Package Installers",
+    "Docker",
+    "AI/Network Chuck"
+  ]
+}
