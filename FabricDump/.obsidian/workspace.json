@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27-07-2025-Find and Replace.md",
+                "file": "File Management/23-07-2025-Using Yazi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27-07-2025-Find and Replace"
+              "title": "23-07-2025-Using Yazi"
             }
           }
         ]
@@ -165,14 +165,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "edge-tts:Read note aloud": false
     }
   },
   "active": "26ea2fdb91367e94",
   "lastOpenFiles": [
-    "27-07-2025-Sheepit render farm.md",
-    "27-07-2025-Rebuilding Nixos with Hyprland.md",
-    "27-07-2025-Find and Replace.md",
-    "27-07-2025-Customizing Waybar.md"
+    "03-08-2025-Using Frontend Languages.md",
+    "AI/Fabric/03-08-2025-Fabric pdf processing.md",
+    "File Management/23-07-2025-Using Yazi.md",
+    "Custom LInux setup/13-07-2025-Neovim Customization from scratch.md",
+    "Docker/14-07-2025-Webtop with docker Linux container.md",
+    "Terminal Opperations/13-07-2025-Editing with vim.md",
+    "Terminal Opperations/13-07-2025-Fish Tutorial.md",
+    "Terminal Opperations/16-07-2025-Network Chuck on Tmux learning.md",
+    "29-07-2025-Waybar config.md",
+    "Custom LInux setup/18-07-2025-Dual Booting Arch.md",
+    "Custom LInux setup/13-07-2025-Neovim config with lazyvim.md",
+    "Custom LInux setup/Automation/27-07-2025-Rebuilding Nixos with Hyprland.md",
+    "Custom LInux setup/Art/13-07-2025-customizing fastfetch.md",
+    "Custom LInux setup/Art",
+    "Custom LInux setup/Automation",
+    "AI/GUI/13-07-2025-OpenWebUI setup.md",
+    "Automation/17-07-2025-Automation with n8n with Network Chuck.md",
+    "Automation/17-07-2025-n8n locally by Network Chuck.md",
+    "AI/Integrations/18-07-2025-Integrating AI with the terminal.md",
+    "AI/Integrations",
+    "Terminal Opperations/Neovim/27-07-2025-Find and Replace.md",
+    "AI/Fabric",
+    "Terminal Opperations/Neovim",
+    "27-07-2025-Customizing Waybar.md",
+    "27-07-2025-Sheepit render farm.md"
   ]
 }
