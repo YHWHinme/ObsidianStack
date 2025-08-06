@@ -11,14 +11,10 @@
             "id": "295d75a1a319115b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom LInux setup/Apps/28-07-2025-7 Cli Packages to try (Fzf).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "28-07-2025-7 Cli Packages to try (Fzf)"
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +160,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "edge-tts:Read note aloud": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "77015ba0e32bc5cf",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Management/23-07-2025-Using Yazi.md",
+                "file": "05-08-2025-Lsp for neovim builtin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-07-2025-Using Yazi"
+              "title": "05-08-2025-Lsp for neovim builtin"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "26ea2fdb91367e94",
   "lastOpenFiles": [
+    "File Management/23-07-2025-Using Yazi.md",
+    "05-08-2025-Lsp for neovim builtin.md",
     "03-08-2025-Using Frontend Languages.md",
     "AI/Fabric/03-08-2025-Fabric pdf processing.md",
-    "File Management/23-07-2025-Using Yazi.md",
     "Custom LInux setup/13-07-2025-Neovim Customization from scratch.md",
     "Docker/14-07-2025-Webtop with docker Linux container.md",
     "Terminal Opperations/13-07-2025-Editing with vim.md",
