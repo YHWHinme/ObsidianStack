@@ -11,14 +11,10 @@
             "id": "26ea2fdb91367e94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-08-2025-Lsp for neovim builtin.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05-08-2025-Lsp for neovim builtin"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,11 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "26ea2fdb91367e94",
+  "active": "49b7d4d9a7ef0da2",
   "lastOpenFiles": [
+    "Newspapers/14-07-2025-Html Learning Doc: Overview.md",
+    "Newspapers/14-07-2025-Html Learning Doc Overview.md",
+    "Coding/02-08-2025-Full Stack Rust.md",
     "File Management/23-07-2025-Using Yazi.md",
     "05-08-2025-Lsp for neovim builtin.md",
     "03-08-2025-Using Frontend Languages.md",
